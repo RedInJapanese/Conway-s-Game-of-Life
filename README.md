@@ -3,7 +3,7 @@
 
 This program utilizes a 2D array in order to simulate a grid that applies the rules of Conway's Game of Life
 
-#Building
+# Building
 
 Run the following to build the 'life' executable
 
